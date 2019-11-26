@@ -13,7 +13,7 @@ namespace ExtractText
         private const string subscriptionKey = "c48ec2b81a534659a5929f8688a3b169";
 
         // localImagePath = @"C:\Documents\LocalImage.jpg"
-        private const string localImagePath = @"starwar3.jpg";
+        private const string localImagePath = @"Steve-Jobs3.jpg";
 
         private const string remoteImageUrl = "";
 
